@@ -2,4 +2,4 @@
 
 `yarn && yarn dev` to install and run.
 
-With the server running change the text in ./data.js`. Console will not log the updated value.
+With the server running change the text in `./data.js`. Console will not log the updated value.

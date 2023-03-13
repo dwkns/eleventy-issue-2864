@@ -1,2 +1,2 @@
 // data.js
-module.exports = "this is a tester";
+module.exports = "this is a test";
